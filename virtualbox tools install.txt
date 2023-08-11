@@ -1,0 +1,22 @@
+sudo apt-get update
+
+sudo apt-get upgrade -y
+
+sudo apt-get list linux-headers
+
+sudo apt-get install linux-headers-$(uname -r)
+
+sudo reboot 
+
+# install a vitual box cd image in top of bottam device
+
+#double click cd image copy file to download file 
+
+
+
+#run the .run file
+
+sudo ./
+ 
+
+
